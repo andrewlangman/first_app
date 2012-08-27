@@ -1,0 +1,11 @@
+Script started on Fri 24 Aug 2012 03:54:13 PM EDT
+]0;andrew@andrew-VirtualBox: ~/Documents/rails_projects/first_appandrew@andrew-VirtualBox:~/Documents/rails_projects/first_app$ fg
+bash: fg: current: no such job
+]0;andrew@andrew-VirtualBox: ~/Documents/rails_projects/first_appandrew@andrew-VirtualBox:~/Documents/rails_projects/first_app$ ps
+  PID TTY          TIME CMD
+ 4574 pts/2    00:00:00 bash
+ 4671 pts/2    00:00:00 ps
+]0;andrew@andrew-VirtualBox: ~/Documents/rails_projects/first_appandrew@andrew-VirtualBox:~/Documents/rails_projects/first_app$ exit
+exit
+
+Script done on Fri 24 Aug 2012 03:54:28 PM EDT
